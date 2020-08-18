@@ -1,5 +1,6 @@
 # self-hosted-runners-on-aws
-Source Code for my blog series about running self hosted runners on AWS.
+Source Code for the [blog](https://dev.to/jimmydqv/github-self-hosted-runners-on-aws-part-2-ec2-3jhj) .
+
 
 [Part 1][part-one-link]  
 
